@@ -1,0 +1,24 @@
+{
+  "Mac" : [
+    {
+      "name" : "KontaktSDK",
+      "hash" : "d9443b3632dc7df2dbe9ff22626e8374207ed668b3b5e7c8590795ac06305af5"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "KontaktSDK",
+      "hash" : "705b1b6e7604417b8ce3e64aaa2cb19cce40cf5a61ec0ab051a5a1ef5613093b"
+    }
+  ],
+  "commitish" : "v1.5.1",
+  "iOS" : [
+    {
+      "name" : "KontaktSDK",
+      "hash" : "c7631ef565697dbccd150f75b91a67bc131f496bfb4d161f7e4346272413dce0"
+    }
+  ]
+}
